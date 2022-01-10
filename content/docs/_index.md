@@ -1,4 +1,4 @@
 ---
-title: Docs
+title: Story
 layout: doc-list
 ---
