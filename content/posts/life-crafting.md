@@ -11,7 +11,6 @@ categories:
 series:
 date: '2021-01-11'
 lastmod: '2021-01-11'
-featuredImage: images/hero-right.jpg
 draft: false
 ---
 
