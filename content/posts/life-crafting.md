@@ -3,7 +3,7 @@ title: Life Crafting
 description: Goal setting structure.
 toc: false
 authors:
-  - Example Author
+  - Rashed Suwaidi
 tags:
   - goals
   - purpose
