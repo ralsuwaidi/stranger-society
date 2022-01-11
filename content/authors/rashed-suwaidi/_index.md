@@ -2,7 +2,7 @@
 title: Rashed AlSuwaidi
 role: Author
 avatar: images/rashed.png
-bio: Researcher and tech enthusiast interested in big questions 
+bio: Tech enthusiast interested in the big questions 
 organization:
 social:
   - icon: envelope
