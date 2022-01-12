@@ -1,6 +1,6 @@
 ---
 title: Finding Meaning in Life Goals
-description: Goal setting structure.
+description: How to live a meaningful life through goal setting
 toc: false
 authors:
   - Rashed Suwaidi
