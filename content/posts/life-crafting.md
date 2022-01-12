@@ -6,10 +6,11 @@ authors:
   - Rashed Suwaidi
 tags:
   - purpose
+  - research
 categories:
 series:
 date: '2022-01-11'
-lastmod: '2022-01-11'
+lastmod: '2022-01-12'
 draft: false
 ---
 
